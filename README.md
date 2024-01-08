@@ -66,7 +66,10 @@ and Web Scrapping. Learning and Improving Daily.
 - **Name:** Tamirat K.
 - **GitHub:** [Tamirat](https://github.com/kika1s1)
 - **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
-
+  ### Developer 5
+- **Name:** Esmael Abdlkadr
+- **GitHub:** [Esmael](https://github.com/smithCoders)
+- **Bio:** A Nodejs developer with hands-on skill on building robust REST API 
 <!-- ### Developer 2
 - **Name:** Emily Davis
 - **GitHub:** [emilydavis](https://github.com/emilydavis)
